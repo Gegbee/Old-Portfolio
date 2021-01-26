@@ -57,7 +57,7 @@ body {
     padding : 20px;
     background-color : black;
     opacity : 0.2;
-    margin : 10px;
+    margin : 16px;
     transition : transform 0.5s, opacity 1s, box-shadow 0.5s;
     border-radius: 10px;
     box-shadow: 0 10px 10px rgba(0,0,0,0.5); 
@@ -138,9 +138,12 @@ body {
 }
 .small_spacer {
     width : 100%;
-    margin : 10vh;
+    margin : 6vh;
 }
 .large_spacer {
     width : 100%;
-    margin : 30vh;
+    margin : 24vh;
+}
+.card_img {
+    max-width : 300px;
 }
