@@ -1,11 +1,11 @@
 const pics = [
     { 
         "photo" : "pictures/robotArm.jpg",
-        "caption" : "The robot arm from the project"
+        "caption" : "The robot arm used with my robot arm project"
     },
     { 
         "photo" : "pictures/robotCar.jpg",
-        "caption" : "The robot car from the project"
+        "caption" : "The robot car for the Discord-Arduino Project"
     }
 ]
 
