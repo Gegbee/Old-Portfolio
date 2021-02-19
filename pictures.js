@@ -6,6 +6,10 @@ const pics = [
     { 
         "photo" : "pictures/robotCar.jpg",
         "caption" : "The robot car for the Discord-Arduino Project"
+    },
+    { 
+        "photo" : "pictures/robotArmv2.jpg",
+        "caption" : "An improved robot arm (lighter and sturdier)."
     }
 ]
 

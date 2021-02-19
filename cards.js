@@ -23,8 +23,17 @@ const cards = [
     "title" : "Programmable Arduino Car",
     "text" : "A robot car that does not use a servo to turn, but instead uses a scrip to mathematically calculate functions to change the speed of each motor and emulate an actualy RC car.",
     "link" : "https://github.com/Yello12/Project-Tokyo"
+  },
+  {
+    "title" : "North East Trading Co.",
+    "text" : "A video game that uses an emulated parser to parse commands and let the player control his own business economy.",
+    "link" : "https://yello12.github.io/TerminalTrading/"
+  },
+  {
+    "title" : "Arduino Controlled Robot Arm",
+    "text" : "An Arduino controlled robot arm that can be controlled via an Xbox One Controller.",
+    "link" : "https://github.com/Yello12?tab=repositories"
   }
-
 ]
 var html_a = "";
 var html_c = "";
